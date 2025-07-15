@@ -38,7 +38,7 @@ Check out my work:
 
 ## 📫 Let's Connect!
 
-- Email: [YourEmail@example.com](mailto:YourEmail@example.com)
+- Email: [raffunseljake.torrejas@.com](mailto:raffunseljake.torrejas@.com)
 - LinkedIn: [Your LinkedIn Profile](#)
 - GitHub: [punsel](https://github.com/punsel)
 

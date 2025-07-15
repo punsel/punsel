@@ -9,7 +9,7 @@ I'm a **4th-year Computer Science student** and an aspiring **Full Stack Develop
 
 - 🎓 Currently studying Computer Science (4th year)
 - 💻 Full stack enthusiast: I love both frontend and backend development!
-- 🎨 Frontend: HTML, CSS, JavaScript
+- 🎨 Frontend: HTML, CSS, JavaScript, bootsrap, Tailwind css
 - 🛠️ Backend: PHP, Laravel, Java, C
 - 🎵 I’m passionate about music and technology
 

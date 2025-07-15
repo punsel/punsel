@@ -38,7 +38,7 @@ Check out my work:
 
 ## 📫 Let's Connect!
 
-- Email: [raffunseljake.torrejas@.com](mailto:raffunseljake.torrejas@.com)
+- Email: [raffunseljake.torrejas@gmail.com](mailto:raffunseljake.torrejas@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](#)
 - GitHub: [punsel](https://github.com/punsel)
 

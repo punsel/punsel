@@ -5,7 +5,7 @@ I'm a **4th-year Computer Science student** and an aspiring **Full Stack Develop
 
 ---
 
-## 🚀 About Me hehe
+## 🚀 About Me
 
 - 🎓 Currently studying Computer Science (4th year)
 - 💻 Full stack enthusiast: I love both frontend and backend development!

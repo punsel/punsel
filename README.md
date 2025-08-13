@@ -14,7 +14,6 @@ I'm a **4th-year Computer Science student** and an aspiring **Full Stack Develop
 - 🎵 I’m passionate about music and technology
 
 ---
-for tiles only, i broke my laptop please. are with mehehehays
 ## 🛠️ My Tech Stack
 
 - **Frontend:**  
